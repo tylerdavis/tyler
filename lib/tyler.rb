@@ -186,10 +186,3 @@ class SystemExit
     return responses[rand(responses.length-1)]
   end
 end
-
-class fatal
-  def to_s
-    responses = ["I've got nothing."]
-    return responses[rand(responses.length-1)]
-  end
-end
