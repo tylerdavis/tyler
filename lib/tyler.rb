@@ -1,6 +1,6 @@
 class Exception
   def to_s
-    responses = ["I've got nothing."]
+    responses = ["."]
     return responses[rand(responses.length-1)]
   end
 end
@@ -21,14 +21,14 @@ end
 
 class LoadError
   def to_s
-    responses = ["I've got nothing."]
+    responses = ["What did the module say to the class?  We'll never know because you can't type."]
     return responses[rand(responses.length-1)]
   end
 end
 
 class NotImplementedError
   def to_s
-    responses = ["I've got nothing."]
+    responses = ["Are you using Windows?  You're using Windows, aren't you?"]
     return responses[rand(responses.length-1)]
   end
 end
