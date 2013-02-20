@@ -8,5 +8,5 @@ Gem::Specification.new do |s|
   s.email       = 'tyebud@gmail.com'
   s.files       = ['lib/tyler.rb']
   s.homepage    =
-    'http://rubygems.org/gems/tyler'
+    'http://www.github.com/tylerdavis/tyler'
 end
