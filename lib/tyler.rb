@@ -17,7 +17,7 @@
   NoMethodError => ["Undefined method. That thing you're trying to do... No."],
   RangeError => ["I've got nothing.", "Counting. You're doing it wrong."],
   FloatDomainError => ["I've got nothing."],
-  RegexpError => ['Some people, when confronted with a problem, this "I know, I\'ll use regular expression."  Now they have two problems'],
+  RegexpError => ['Some people, when confronted with a problem, think "I know, I\'ll use regular expression."  Now they have two problems'],
   RuntimeError => ["I've got nothing."],
   SecurityError => ["I've got nothing."],
   SystemCallError => ["I've got nothing."],
